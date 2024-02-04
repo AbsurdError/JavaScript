@@ -149,9 +149,12 @@ console.log(1/n);*/
 // 8.1
 
 // let str = 'abcde';
-// alert(str[0]);
-// alert(str[2]);
-// alert(str[4]);
+// let result = []
+// for (let i = 0; i<str.length; i += 2){
+//     result += str[i]
+//     alert(str[i])
+// }
+// console.log(result)
 
 // 8.2
 
